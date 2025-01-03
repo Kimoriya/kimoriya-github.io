@@ -63,21 +63,21 @@ Here is a breakdown of the development stages:
 ### Stage 1: Non-coded Mockups
 
 <div style="text-align: center;">
-  <strong style="font-size: 12px; padding-top: 12px;">"AI as enablers, not as the solution" ~Jayden 2024</strong>
+  <strong style="font-size: 12px; padding-top: 12px;">Homepage file folder cover Canva mockup</strong>
   <br>
-  <img src="mockups/homepage-folder-cover.png" alt="" width="90%" style="padding-top: 8px; padding-bottom: 12px;" />
+  <img src="mockups/homepage-folder-cover.png" alt="Homepage file folder cover Canva mockup" width="90%" style="padding-top: 8px; padding-bottom: 12px;" />
 </div>
 
 <div style="text-align: center;">
-  <strong style="font-size: 12px; padding-top: 12px;">"AI as enablers, not as the solution" ~Jayden 2024</strong>
+  <strong style="font-size: 12px; padding-top: 12px;">Homepage file folder tab Canva mockup</strong>
   <br>
-  <img src="mockups/homepage-folder-tab.png" alt="" width="90%" style="padding-top: 8px; padding-bottom: 12px;" />
+  <img src="mockups/homepage-folder-tab.png" alt="Homepage file folder tab Canva mockup" width="90%" style="padding-top: 8px; padding-bottom: 12px;" />
 </div>
 
 <div style="text-align: center;">
-  <strong style="font-size: 12px; padding-top: 12px;">"AI as enablers, not as the solution" ~Jayden 2024</strong>
+  <strong style="font-size: 12px; padding-top: 12px;">Teambuilder page mockup</strong>
   <br>
-  <img src="mockups/teambuilder.png" alt="" width="90%" style="padding-top: 8px; padding-bottom: 12px;" />
+  <img src="mockups/teambuilder.png" alt="Teambuilder page mockup" width="90%" style="padding-top: 8px; padding-bottom: 12px;" />
 </div>
 
 ## Team
